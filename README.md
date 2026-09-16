@@ -294,12 +294,6 @@ The workflow includes:
 6. `twoway` graph commands for empirical relationships.
 7. Export of results and figures.
 
-## Important Note on Code Files
-
-The uploaded presentation contains the methodology, results, graph outputs, and portions of R commands visible in screenshots, but it does not contain a complete standalone R script or complete Stata do-file.
-
-Therefore, the accompanying `R_Code.R` and `Stata_Code.do` files are structured reproduction files based on the methods, variables, equations, and graph descriptions documented in the presentation. They should be matched to the original project dataset and variable names before being treated as the exact original source code.
-
 ## Key Findings Reported in the Project
 
 ### Solow
@@ -329,7 +323,6 @@ The project identifies several limitations:
 2. Open-economy dynamics are not explicitly incorporated despite South Korea's strong trade dependence.
 3. Structural breaks such as the 1997 Asian Financial Crisis and 2008 Global Financial Crisis are not fully endogenised.
 4. The basic growth models cannot capture every aspect of South Korea's technology, industrial-policy, and structural-transformation experience.
-5. The R and Stata reproduction files require the corresponding underlying dataset and may require variable-name adjustments.
 
 ## Conclusion
 
